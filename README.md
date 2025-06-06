@@ -1,6 +1,14 @@
-# Demo
+# Demo 
 
-Some description goes here!
+Some description!
 
-# Subheading
-Watching youtube video 
+
+## Subheader
+
+Watch tutorial on Youtube.
+
+## Local Development
+
+1. Open inden html
+
+
